@@ -1,0 +1,74 @@
+[
+  {
+    "name": "gaggenau-kitchen",
+    "source": "https://www.gaggenau.com/global/appliances/ovens",
+    "image": "https://media3.gaggenau.com/Images/600x/25977926_gg-global-expressive-oven-landing-page-stage-vp1.jpg",
+    "downloadedImage": "https://media3.gaggenau.com/Images/1600x/25977926_gg-global-expressive-oven-landing-page-stage-vp1.jpg",
+    "localImage": "public/images/gaggenau-kitchen.webp",
+    "width": 1600,
+    "height": 1203
+  },
+  {
+    "name": "gaggenau-eb333",
+    "source": "https://www.gaggenau.com/global/appliances/ovens/eb-333",
+    "image": "https://media3.gaggenau.com/Images/600x/25977914_gg-global-expressive-oven-landing-page-eb333.jpg",
+    "downloadedImage": "https://media3.gaggenau.com/Images/1600x/25977914_gg-global-expressive-oven-landing-page-eb333.jpg",
+    "localImage": "public/images/gaggenau-eb333.webp",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "name": "gaggenau-coffee",
+    "source": "https://www.gaggenau.com/global/appliances/coffee-machines",
+    "image": "https://media3.gaggenau.com/Images/600x/25975215_gg-global-expressive-coffee-landing-page-stage-vp1.jpg",
+    "downloadedImage": "https://media3.gaggenau.com/Images/1600x/25975215_gg-global-expressive-coffee-landing-page-stage-vp1.jpg",
+    "localImage": "public/images/gaggenau-coffee.webp",
+    "width": 1600,
+    "height": 1203
+  },
+  {
+    "name": "gaggenau-induction",
+    "source": "https://www.gaggenau.com/global/mkt-category-page/cooktops",
+    "image": "https://media3.bsh-group.com/Images/5120x/28747025_gg-Sherpa-cooktops-landing-page-induction-flex-induction-01-desktop.webp",
+    "downloadedImage": "https://media3.bsh-group.com/Images/5120x/28747025_gg-Sherpa-cooktops-landing-page-induction-flex-induction-01-desktop.webp",
+    "localImage": "public/images/gaggenau-induction.webp",
+    "width": 3200,
+    "height": 1800
+  },
+  {
+    "name": "gaggenau-ventilation",
+    "source": "https://www.gaggenau.com/global/mkt-category-page/extractors",
+    "image": "https://media3.bsh-group.com/Images/5120x/26582715_gaggenau-ventilation-400-series-wall-mounted-hood-image-global.webp",
+    "downloadedImage": "https://media3.bsh-group.com/Images/5120x/26582715_gaggenau-ventilation-400-series-wall-mounted-hood-image-global.webp",
+    "localImage": "public/images/gaggenau-ventilation.webp",
+    "width": 3920,
+    "height": 2205
+  },
+  {
+    "name": "gaggenau-refrigeration",
+    "source": "https://www.gaggenau.com/global/appliances/refrigerators",
+    "image": "https://media3.gaggenau.com/Images/600x/27491487_GG-global-Vario-cooling-expressive-series-refrigerators-page-full-width-vp1.jpg",
+    "downloadedImage": "https://media3.gaggenau.com/Images/1600x/27491487_GG-global-Vario-cooling-expressive-series-refrigerators-page-full-width-vp1.jpg",
+    "localImage": "public/images/gaggenau-refrigeration.webp",
+    "width": 1600,
+    "height": 1867
+  },
+  {
+    "name": "gaggenau-wine",
+    "source": "https://www.gaggenau.com/global/appliances/wine-cabinets",
+    "image": "https://media3.gaggenau.com/Images/600x/27492805_GG-global-Vario-cooling-expressive-series-wine-climate-cabinets-bespoke-staging.jpg",
+    "downloadedImage": "https://media3.gaggenau.com/Images/1600x/27492805_GG-global-Vario-cooling-expressive-series-wine-climate-cabinets-bespoke-staging.jpg",
+    "localImage": "public/images/gaggenau-wine.webp",
+    "width": 1600,
+    "height": 1067
+  },
+  {
+    "name": "gaggenau-dishwasher",
+    "source": "https://www.gaggenau.com/global/mkt-product/dishwashing/400-series-400-series/fully-integrated-diswashers/DF480101",
+    "image": "https://media3.bsh-group.com/Product_Shots/20786667_DF480101_STP_def.webp",
+    "downloadedImage": "https://media3.bsh-group.com/Product_Shots/20786667_DF480101_STP_def.webp",
+    "localImage": "public/images/gaggenau-dishwasher.webp",
+    "width": 2645,
+    "height": 3094
+  }
+]

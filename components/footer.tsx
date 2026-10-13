@@ -1,0 +1,5 @@
+import Link from "next/link";
+import { ArrowUpRight } from "lucide-react";
+import { navigation, site, mapsUrl } from "@/lib/site";
+import { BrandMark, BrandName } from "./brand";
+export function Footer() { return <footer className="footer"><div className="wrap"><div className="footer-main"><div><Link href="/" className="brand footer-brand" aria-label="Fusion Sphere home"><BrandMark/><BrandName/></Link><p className="footer-intro">Appliances. Electronics. Apparel.</p></div><div className="footer-links"><p className="label">Explore</p>{navigation.map(item=><Link key={item.href} href={item.href}>{item.label}</Link>)}<Link href="/contact">Contact</Link></div><div className="footer-contact"><p className="label">Kuala Lumpur, Malaysia</p><a href={`mailto:${site.email}`}>{site.email}<ArrowUpRight size={16}/></a><a href={mapsUrl} target="_blank" rel="noopener noreferrer">{site.addressText}</a></div></div><div className="footer-bottom"><p>&copy; {new Date().getFullYear()} {site.legalName}</p><p>Registration {site.registration}</p><div><Link href="/privacy-policy">Privacy</Link><Link href="/terms">Terms</Link></div></div></div></footer>; }
